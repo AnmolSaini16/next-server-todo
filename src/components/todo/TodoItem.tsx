@@ -57,6 +57,7 @@ export default function TodoItem({ todo }: Props) {
           checked={checked}
           open={open}
           setOpen={setOpen}
+          key={`${open}`}
         />
       </div>
 
