@@ -1,3 +1,7 @@
+## Todo App using Next Server Component, Route Handlers, and shadcn/ui.
+
+![image](https://github.com/AnmolSaini16/next-server-todo/assets/72123368/5797d034-bd16-49a1-a768-f167d86ed048)
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
